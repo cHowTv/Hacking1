@@ -3,7 +3,7 @@ Wireless networks are computer networks that are not connected by cables of any 
 
 
 
-The basic forms of wireless networks are;
+The basic forms of wireless networks are:
 1. Wireless Local Area Network (WLAN): Wireless Local Area Network links two or more devices using a wireless distribution method (e.g WiFi Hotspot), providing a connection through access points to the wider Internet.
 2. Wireless Metropolitan Area Networks (MAN): Connects several wireless LANs.
 3. Wireless Wide Area Network (WAN): Covers large areas such as neighboring towns and cities.
