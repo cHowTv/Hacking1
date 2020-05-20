@@ -1,2 +1,9 @@
 # Hacking1
 Push your first hacking assignment 
+Malware 
+ Malware is any software intentionally designed to cause damage to a computer, server, client, or computer network. A wide variety of types of malware exist, including computer viruses, worms, Trojan horses, ransomware, spyware, adware, rogue software, and scareware
+PURPOSE
+Malware is sometimes used broadly against government or corporate websites to gather guarded information, or to disrupt their operation in general. However, malware can be used against individuals to gain information such as personal identification numbers or details, bank or credit card numbers, and passwords.
+In addition to criminal money-making, malware can be used for sabotage, often for political motives. for example, was designed to disrupt very specific industrial equipment. There have been politically motivated attacks which spread over and shut down large computer networks, including massive deletion of files and corruption of , described as "computer killing." Such attacks were made on Sony Pictures Entertainment (25 November 2014, using malware known as or W32.Disttrack) and Saudi Aramco (August 2012).
+MALWARE TYPES
+The best-known types of malware, viruses and worms, are known for the manner in which they spread, rather than any specific types of behavior. A computer virus is software that embeds itself in some other executable software (including the operating system itself) on the target system without the user's knowledge and consent and when it is run, the virus is spread to other executables. On the other hand, a worm is a stand-alone malware software that actively transmits itself over a network to infect other computers. These definitions lead to the observation that a virus requires the user to run an infected software or operating system for the virus to spread, whereas a worm spreads itself
