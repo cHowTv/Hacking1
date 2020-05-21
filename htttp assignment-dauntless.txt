@@ -1,0 +1,57 @@
+The Hypertext Transfer Protocol is an application protocol for distributed, 
+collaborative, hypermedia information systems that allows users to communicate data on the World Wide Web. In other words,
+Communication between clients and servers is done by requests and responses:
+
+A client (a browser) sends an HTTP request to the web
+An web server receives the request
+The server runs an application to process the request
+The server returns an HTTP response (output) to the browser
+The client (the browser) receives the response.
+
+
+HTTP was invented alongside HTML to create the first interactive, text-based web browser: the original World Wide Web. 
+Today, the protocol remains one of the primary means of using the Internet.
+
+As a request-response protocol, HTTP gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers. 
+HTTP clients generally use Transmission Control Protocol (TCP) connections to communicate with servers.
+
+HTTP utilizes specific request methods in order to perform various tasks:
+
+GET requests a specific resource in its entirety
+HEAD requests a specific resource without the body content
+POST adds content, messages, or data to a new page under an existing web resource
+PUT directly modifies an existing web resource or creates a new URI if need be
+DELETE gets rid of a specified resource
+TRACE shows users any changes or additions made to a web resource
+OPTIONS shows users which HTTP methods are available for a specific URL
+CONNECT converts the request connection to a transparent TCP/IP tunnel
+PATCH partially modifies a web resource
+All HTTP servers use the GET and HEAD methods, but not all support the rest of these request methods.
+
+
+The HTTP Request Circle
+A typical HTTP request / response circle:
+
+The browser requests an HTML page. The server returns an HTML file.
+The browser requests a style sheet. The server returns a CSS file.
+The browser requests an JPG image. The server returns a JPG file.
+The browser requests JavaScript code. The server returns a JS file
+The browser requests data. The server returns data (in XML or JSON).
+
+XHR - XML Http Request
+All browsers have a built-in XMLHttpRequest Object (XHR).
+
+XHR is a JavaScript object that is used to transfer data between a web browser and a web server.
+
+XHR is often used to request and recieve data for the purpose of modifying a web page.
+
+Despite the XML and Http in the name, XHR is used with other protocols than HTTP, 
+and the data can be of many different types like HTML, CSS, XML, JSON, and plain text.
+
+The XHR Object is a Web Developers Dream, because you can:
+
+Update a web page without reloading the page
+Request data from a server - after the page has loaded
+Receive data from a server - after the page has loaded
+Send data to a server - in the background
+
