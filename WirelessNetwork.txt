@@ -1,0 +1,10 @@
+Meedokrick Assignment Solution on Wireless Networks.
+Wireless networks are computer networks that are not connected by cables of any kind.A wireless network allows devices to stay connected to the network but roam untethered to any wires. Access points amplify Wi-Fi signals, so a device can be far from a router but still be connected to the network. When you connect to a Wi-Fi hotspot at a cafe, a hotel, an airport lounge, or another public place, you're connecting to that business's wireless network. Wireless networks make use of radio waves to connect devices such as mobile phones, laptops to the Internet, the business network and applications.
+
+
+
+The basic forms of wireless networks are:
+1. Wireless Local Area Network (WLAN): Wireless Local Area Network links two or more devices using a wireless distribution method (e.g WiFi Hotspot), providing a connection through access points to the wider Internet.
+2. Wireless Metropolitan Area Networks (MAN): Connects several wireless LANs.
+3. Wireless Wide Area Network (WAN): Covers large areas such as neighboring towns and cities.
+4. Wireless Personal Area Network (PAN): Interconnects devices in a short span, generally within a person’s reach.
